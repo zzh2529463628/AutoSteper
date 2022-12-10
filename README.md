@@ -1,5 +1,5 @@
 # AutoSteper
-Automated Stepwise Addition Procedure for Extrafullerene. 
+Automated Stepwise Addition Procedure for Extrafullerene. TEST
 
 A detailed description could be found in the article: Exploring exohedral functionalization of fullerene with Automation and Neural Network Potential. ![overview](./overview.png)
 
